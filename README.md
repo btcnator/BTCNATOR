@@ -1,8 +1,6 @@
 # BTCNATOR
 
-🚀 Cryptocurrency Scripts, Crypto Tools & Tutorials
-
-Welcome to the official BTCNATOR GitHub profile.
+BTCNator is a free platform offering transparent, automated scripts for claiming crypto airdrops and instant cross-chain swaps — all code is visible, no account required, and you run everything yourself.
 
 ## 🌐 Website
 https://btcnator.com
